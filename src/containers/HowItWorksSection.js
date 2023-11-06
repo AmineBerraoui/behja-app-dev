@@ -7,7 +7,7 @@ const HowItWorksSection = () => {
   const navigate = useNavigate()
 
   return (
-    <section className=" w-[90%] lg:w-[75%]">
+    <section className=" w-[90%] mt-[388px] lg:w-[75%]">
       <div className="flex flex-col justify-center items-center">
       <p className="heading-01-semibold text-primary-900">
         {t("How it Works")}
