@@ -116,7 +116,7 @@ const HeroSection = () => {
           className=''
         />
       </div>
-      {/* <StaticsSection /> */}
+      <StaticsSection />
     </section>
   );
 };
