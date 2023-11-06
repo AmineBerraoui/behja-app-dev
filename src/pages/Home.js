@@ -14,7 +14,7 @@ const Home = () => {
     <div className="flex flex-col items-center justify-center mx-auto bg-primary-50">
     <NavBar fixed={true}/>
     <HeroSection />
-    {/* <DiscoverSection /> */}
+    <DiscoverSection />
     <HowItWorksSection />
     <InvestorsSection />
     <BenefitsSection />
